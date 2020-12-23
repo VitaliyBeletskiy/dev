@@ -1,4 +1,4 @@
-#Just Bulls & Cows#
+# Just Bulls & Cows #
 
 **Privacy Policy**
 
