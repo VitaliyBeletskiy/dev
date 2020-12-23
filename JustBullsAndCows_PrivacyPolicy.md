@@ -1,6 +1,6 @@
 # Just Bulls & Cows #
 
-**Privacy Policy1**
+**Privacy Policy**
 
 Vitaliy Beletskiy built the Just Bulls & Cows app as a Free app. This SERVICE is provided by Vitaliy Beletskiy at no cost and is intended for use as is.
 
