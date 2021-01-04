@@ -10,8 +10,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, phone number, email. 
-
 You do need to register for an Account, I do ask for your contact information, including but not limited to name, phone number, email. Therefore, I do collect data from you by using the application.
 
 **Log Data**
