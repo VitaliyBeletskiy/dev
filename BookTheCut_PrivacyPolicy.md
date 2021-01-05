@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-You do need to register for an Account, I do ask for your contact information, including but not limited to name, phone number, email. Therefore, I do collect data from you by using the application.
+You do need to register for an Account, I do ask for your contact information, including but not limited to name, email. Therefore, I do collect data from you by using the application.
 
 I use your information to provide and improve your experience, including:
 - Identify you when you use BookTheCut.
